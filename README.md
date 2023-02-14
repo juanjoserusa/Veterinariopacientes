@@ -33,7 +33,7 @@ Este proyecto es una aplicación web de citas para una clínica veterinaria. La 
 
 
  
-La aplicación se ejecutará en `http://localhost:3000` y estará disponible para su uso en el navegador.
+La aplicación se ejecutará en `http://localhost:5173` y estará disponible para su uso en el navegador.
 
 
 
